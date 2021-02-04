@@ -126,7 +126,7 @@ right: 30%;
   text-align: center;
 }
 .accordionbtn{
-  background-color: #eee;
+  background-color: transparent;
   color: #444;
   cursor: pointer;
   padding: 18px;
